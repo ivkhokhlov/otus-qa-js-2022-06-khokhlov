@@ -1,0 +1,1 @@
+# otus-qa-js-2022-06-khokhlov
